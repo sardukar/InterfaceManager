@@ -1,4 +1,0 @@
-rm -rf main.o InterfaceManager.o main
-g++ -c main.cpp InterfaceManager.cpp
-g++ main.o InterfaceManager.o -o main
-./main
