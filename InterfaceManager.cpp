@@ -16,7 +16,7 @@
 using namespace std;
 
 InterfaceManager::InterfaceManager(){
-	
+	update();
 	
 	
 }

@@ -29,7 +29,7 @@ int main(){
     int cnt = 0;
     printf("-----------------------------------------------\n");
     
-    unsigned long _start = GetTickCount();
+    unsigned long _start = GetTickCount() - 5000;
 
     while(1){
     	
